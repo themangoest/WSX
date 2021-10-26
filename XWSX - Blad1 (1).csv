@@ -1,0 +1,29 @@
+XWSX,,,
+Back,,,
+Amount,Designator,Part Type,Properties
+2,"c6, c10",Ceramic Capacitor,"package 0603 [SMD, multilayer]; capacitance 470nF; voltage 6.3V"
+2,"c7, c9",Ceramic Capacitor,"package 0603 [SMD, multilayer]; capacitance 100pF; voltage 6.3V"
+2,"c8, c11",Electrolytic Capacitor,"package 0605 [SMD, electrolytic]; capacitance 47µF; voltage 6.3V"
+8,"d1, d2, d3, d8, d11, d12, d13, d14",Rectifier Diode,package Melf DO-213 AA [SMD]; type Rectifier; part # 1N4148
+1,,Generic female header - 8 pins,"package THT; hole size 0.7mm,0.508mm; row single; form ♀ (female); pins 8; pin spacing 0.1in (2.54mm)"
+1,,Generic female header - 5 pins,"package THT; hole size 1.0mm,0.508mm; row single; form ♀ (female); pins 5; pin spacing 0.1in (2.54mm)"
+1,,Generic female header - 6 pins,"package THT; hole size 1.0mm,0.508mm; row single; form ♀ (female); pins 6; pin spacing 0.1in (2.54mm)"
+4,"r1, r5, r9, r14",100k Ω Resistor,package 0603 [SMD]; tolerance ±5%; resistance 100kΩ
+6,"r2, r4, r6, r10, r11, r13",1.5M Ω Resistor,package 0603 [SMD]; tolerance ±5%; resistance 1.5MΩ
+2,"r3, r12",220k Ω Resistor,package 0603 [SMD]; tolerance ±5%; resistance 220kΩ
+2,"r7, r15",330 Ω Resistor,package 0603 [SMD]; tolerance ±5%; resistance 330Ω
+2,"r8, r16",150k Ω Resistor,package 0603 [SMD]; tolerance ±5%; resistance 150kΩ
+2,"vr1, vr2",Trimpot 3362P,package 3362P; variant variant 2; part # 20k
+,,,
+,,,
+Front,,,
+Amount,Designator,Part Type,Properties
+2,hex 10mm M3 standoff,male -female,
+4,hex 11mm M3 standoff,female - female,"package THT; hole size 1.0mm,0.508mm; row single; form ♀ (female); pins 6; pin spacing 0.1in (2.54mm)"
+6,machine screw 6mm M3,,
+2,knobs,,
+2,banana black,,
+4,banana blue,,
+1,switch cap,RED,
+2,"r1, r2",Rotary Potentiometer (Small),package THT; size Rotary - 9mm; track Linear; type Rotary Shaft Potentiometer; maximum resistance 100kΩ; part # fold two
+1,s2,Toggle Switch spdt,package THT; switching circuit SPDT; variant variant 2
