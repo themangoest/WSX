@@ -1,4 +1,4 @@
-# XWS
+# WSX
 
 The build is great for beginners learning how to surface mount solder. All the passives are 0603 and there is only 1 IC with a pretty wide pitch.
 
